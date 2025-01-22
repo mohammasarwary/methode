@@ -9,7 +9,7 @@ public class Frute {
     int grape;
     private String Name;
 
-    public  String gitnamr(){
+    public  String gitname(){
         return countryName;
     }
     public String setName( String Name){
